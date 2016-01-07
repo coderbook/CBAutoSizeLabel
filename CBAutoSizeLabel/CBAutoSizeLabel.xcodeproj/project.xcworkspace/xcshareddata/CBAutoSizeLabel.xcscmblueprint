@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "B47D0516D1620240A975929C9CE8FF79A2EFA83A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "2333ec9b-7e7c-41a5-b681-1b274a1dd8f3++5559" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "B47D0516D1620240A975929C9CE8FF79A2EFA83A" : 0,
+    "2333ec9b-7e7c-41a5-b681-1b274a1dd8f3++5559" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "8DA40488-9909-476C-AEA1-82CDD9D1EE9A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "B47D0516D1620240A975929C9CE8FF79A2EFA83A" : "CBAutoSizeLabel\/",
+    "2333ec9b-7e7c-41a5-b681-1b274a1dd8f3++5559" : "iOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "CBAutoSizeLabel",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "CBAutoSizeLabel\/CBAutoSizeLabel.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/192.168.1.12\/punica\/svn\/PunicaSWDesign",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2333ec9b-7e7c-41a5-b681-1b274a1dd8f3++5559"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:coderbook\/CBAutoSizeLabel.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "B47D0516D1620240A975929C9CE8FF79A2EFA83A"
+    }
+  ]
+}
